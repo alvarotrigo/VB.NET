@@ -1,0 +1,18 @@
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\bin\Debug\practica3.exe
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\bin\Debug\practica3.pdb
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\bin\Debug\practica3.xml
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\practica3.Resources.resources
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\practica3.exe
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\practica3.xml
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\practica3.pdb
+C:\Users\Alvaro\Documents\Algoritmia\practica3\monedas\practica3\obj\x86\Debug\practica3.inicio.resources
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\practica3.exe
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\practica3.xml
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\practica3.pdb
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\practica3.inicio.resources
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\practica3.Resources.resources
+C:\Documents and Settings\alumno\Mis documentos\Descargas\practica3\practica3\monedas\practica3\obj\x86\Debug\practica3.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\bin\Debug\mochila.exe
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\bin\Debug\mochila.pdb
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\bin\Debug\mochila.xml
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\WindowsApplication1.inicio.resources
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\mochila.exe
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\mochila.xml
+C:\Users\Alvaro\Documents\Algoritmia\practica2\mochila\mochila\obj\x86\Debug\mochila.pdb
