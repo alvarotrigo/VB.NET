@@ -1,5 +1,5 @@
 README:
-
+============
 Solving the coin problem through the following techniques:
 - Dynamic programming
 - Backtracking
