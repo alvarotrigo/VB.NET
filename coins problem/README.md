@@ -4,6 +4,8 @@ Solving the coin problem through the following techniques:
 - Dynamic programming
 - Backtracking
 
+![preview](https://github.com/alvarotrigo/VB.NET/raw/master/coins%20problem/interface-preview.gif)
+
 
 Coin problem:
 ---------------
