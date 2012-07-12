@@ -3,6 +3,7 @@ README:
 
 Solving the knapsack problem.
 
+![preview](https://github.com/alvarotrigo/VB.NET/blob/master/Knapsack%20problem/inteface-preview.jpg?raw=true)
 
 The knapsack problem or rucksack problem
 -------------------------------------------
